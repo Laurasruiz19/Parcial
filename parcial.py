@@ -1,1 +1,1 @@
-#mundo
+#Dado S, Determinar el número de palabras en S
